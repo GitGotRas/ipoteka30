@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="e2279ef7-eaeb-41c6-9be7-1642295a17a3" />
-  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (parsing_ipoteka30)" project-jdk-type="Python SDK" />
 </project>
